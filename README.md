@@ -1,1 +1,2 @@
 Brutto
+Netto
